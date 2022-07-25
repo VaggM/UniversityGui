@@ -7,12 +7,12 @@ Based on the project I continued from java classes in UniWA.
 
 
 
-# Classes Descriptions
+## Classes Descriptions
 
 Below there is a brief description for each class. (will be updated)
 
 
-## Main.class
+### Main.class
 
 *Contains all the components used for the main frame, as well as all the actions taken for all buttons.*
 

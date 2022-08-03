@@ -43,11 +43,13 @@ Includes methods :
 >
 >    Department : String name
 
+
 * public static void rewriteClass()
  
 > rewrites the ClassLog.txt files based on the current stored class lists
 >
 > by emptying the file and rewriting each stored instance again.
+
 
 * public static Subject searchSubject(String name) throws Exceptions
 
@@ -55,11 +57,13 @@ Includes methods :
 >
 > and throws an error message if there isn't.
 
+
 * public static void listClear(String listName)
 
 > clears one of the stored class lists and anything connected to each instance of it.
 >
 > (for example by clearing students, you clear them from any subject they were connected)
+
 
 * public static void orderStudents()
 

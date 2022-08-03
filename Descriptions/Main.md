@@ -1,4 +1,4 @@
-# Summary
+# Main.java
 
 Contains all the components used for the main frame, as well as all the actions taken for all buttons.
 

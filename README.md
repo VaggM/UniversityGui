@@ -15,5 +15,11 @@ Below there is a brief description for each class. (will be updated)
 
 domains package : 
 
+> [Exceptions.java](https://github.com/VaggM/UniversityGui/blob/main/Descriptions/domains/Exceptions.md)
+>
+> [LogAbstract.java](https://github.com/VaggM/UniversityGui/blob/main/Descriptions/domains/LogAbstract.md)
+>
+> [Logger.java](https://github.com/VaggM/UniversityGui/blob/main/Descriptions/domains/Logger.md)
+>
 > [Storage.java](https://github.com/VaggM/UniversityGui/blob/main/Descriptions/domains/Storage.md)
 >

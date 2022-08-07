@@ -1,12 +1,11 @@
 # **University.java**
 
-A university for all departments, students, teachers, subjects to exist/
+A university for all departments, students, teachers, subjects to exist in.
 
 PS: University class was abandoned early on.
+Can be updated in the future
 
-It can include all the other instances within it which is done with Teachers for example.
-
-Can be updated in the future.
+to include all the other instances within it which is done with Teachers for example
 
 
 ## **Variables**

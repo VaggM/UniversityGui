@@ -6,7 +6,6 @@ Each subject has its own name, unique_id code, semester
 and students that are signed up.
 
 This class has its set and get methods for each variable
-
 plus any method needed for other classes to interact with
 a subject instance.
 

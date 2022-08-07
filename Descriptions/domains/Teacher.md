@@ -6,7 +6,6 @@ Each teacher has its own person traits, email
 and subjects he is in charge for.
 
 This class has its set and get methods for each variable
-
 plus any method needed for other classes to interact with
 a teacher instance.
 

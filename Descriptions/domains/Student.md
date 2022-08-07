@@ -6,7 +6,6 @@ Each student has its own person traits, unique 'am' codenumber, semester, email
 and subjects he has signed up for.
 
 This class has its set and get methods for each variable
-
 plus any method needed for other classes to interact with
 a student instance.
 

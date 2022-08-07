@@ -1,7 +1,6 @@
 # **Person.java**
 
 Person is a common point for students and teachers which can be extended to it
-
 we can include the the first name, last name of a person
 
 

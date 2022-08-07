@@ -1,22 +1,17 @@
 # **Department.java**
 
 Department, part of a university.
-
 Each department has its own name, students, teachers and subjects.
 
 This class has its set and get methods for each variable
-
 plus any method needed for other classes to interact with
 a department instance.
 
 PS: the current version of departments does not include
-
 their own students, teachers and subjects.
-
 It can be updated if the future.
 
 The Student, Teacher and Subject classes already have whatever is needed 
-
 to expand on Departments, if ever needed.
 
 

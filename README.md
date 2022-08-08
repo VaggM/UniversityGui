@@ -13,7 +13,7 @@ Below there is a brief description for each class. (will be updated)
 
 [Main.java](https://github.com/VaggM/UniversityGui/blob/main/Descriptions/Main.md)
 
-domains package : 
+**domains package:** 
 
 > [Department.java](https://github.com/VaggM/UniversityGui/blob/main/Descriptions/domains/Department.md)
 >
@@ -36,7 +36,7 @@ domains package :
 > [University.java](https://github.com/VaggM/UniversityGui/blob/main/Descriptions/domains/University.md)
 >
 
-gui package : 
+**gui package:** 
 
 > [GUI.java](https://github.com/VaggM/UniversityGui/blob/main/Descriptions/gui/GUI.md)
 >

@@ -81,6 +81,9 @@ public final class GuiDepartment extends GUI {
                         windowln("Error", e.getMessage(), "error");
                     }
                 }
+                else
+                    windowln("Error", "Add a name first.", "error");
+
             }
         });
 

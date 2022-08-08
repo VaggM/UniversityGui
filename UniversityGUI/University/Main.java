@@ -191,7 +191,7 @@ public class Main implements ActionListener{
 
                 int input = JOptionPane.showConfirmDialog(null, "Do you want to close the app?", "Exiting App", JOptionPane.YES_NO_OPTION);
                 if (input == 0){
-                    frame.dispose();
+                    System.exit(0);
                 }
 
             }

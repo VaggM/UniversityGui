@@ -35,3 +35,19 @@ domains package :
 >
 > [University.java](https://github.com/VaggM/UniversityGui/blob/main/Descriptions/domains/University.md)
 >
+
+gui package : 
+
+> [GUI.java](https://github.com/VaggM/UniversityGui/blob/main/Descriptions/gui/GUI.md)
+>
+> [GuiDepartment.java](https://github.com/VaggM/UniversityGui/blob/main/Descriptions/gui/GuiDepartment.md)
+>
+> [GuiLog](https://github.com/VaggM/UniversityGui/blob/main/Descriptions/gui/GuiLog.md)
+>
+> [GuiStudent](https://github.com/VaggM/UniversityGui/blob/main/Descriptions/gui/GuiStudent.md)
+>
+> [GuiSubject](https://github.com/VaggM/UniversityGui/blob/main/Descriptions/gui/GuiSubject.md)
+>
+> [GuiTeacher](https://github.com/VaggM/UniversityGui/blob/main/Descriptions/gui/GuiTeacher.md)
+>
+

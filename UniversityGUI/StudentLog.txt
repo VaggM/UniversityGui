@@ -1,8 +1,0 @@
-
-Student-0
-First Name : Evangelos
-Last  Name : Mitikas
-AM         : 1938
-Email      : eee
-Semester   : 1
-

@@ -1,12 +1,12 @@
 # **GuiDepartment.java**
 
-Extends to GUI to create a window of addings a new Department object
+Extends to GUI to create a window of adding a new Department object
 or listing all the stored ones so far.
 
 
 ## **Variables**
 
-* winText: a list from which we can check what a user has typed in window TextFields
+* winText: a list from which we can check what a user has typed in window text fields
 
 * infoDepartmentLabels: a list from which we can change the attributes shown of objects when listing them
 
@@ -35,7 +35,7 @@ public GuiDepartment(int type)
 >
 > 5. adds a complete button with its own actionPerformed method when it's being tapped
 >
-> 6. we get the variables writter within winText and try to create a Department object
+> 6. gets the variables writter within winText and tries to create a Department object
 >
 >  if no error occurs, we discpatch the window and show a completion message
 >
@@ -50,7 +50,7 @@ public GuiDepartment(int type)
 >
 > 2. sets the window name to 'Department List'
 >
-> 3. creates an array with all the stores Department names to add in a combo box that is placed at the top
+> 3. creates an array with all the stored Department names to add in a combo box that is placed at the top
 >
 > 4. adds an ActionListener to change the text below when we choose something in the combo box
 >
@@ -58,7 +58,11 @@ public GuiDepartment(int type)
 >
 >  (right side text is within infoDepartmentLabels and is changed based on the comboBox choice)
 >
-> 6. adds a button to delete a Department being displayed with its own ActionListener and dispatches the window when deleting
+> 6. adds a button with its own ActionListener to delete a Department being displayed and dispatches the current window
 >
 > 7. sets the final window size 
 
+
+* private String textCheck()
+
+> checks if all text fields aren't empty

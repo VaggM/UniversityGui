@@ -1,11 +1,30 @@
 # UniversityGui
 
-
 Project used to learn java and jframe elements.
 
 Based on the project I continued from java classes in UniWA.
 
 Try the executable jar file : [right here](https://github.com/VaggM/UniversityGui/blob/main/UniversityGUI/out/artifacts/UniversityGUI_jar/UniversityGUI.jar).
+
+The current version of the project works around a main window frame from which you are handling a 'University'.
+
+Things you can do :
+
+* add students, teachers, subjects and departments within it with their own variables.
+
+* read any objects you had previously created from text log files that are updated as you progress.
+
+* list anything saved to view it with an option to edit or delete
+
+* put everything in alphabetical order (subjects are also in order by semester)
+
+* clear any objects of one type saved, as well as its text log file
+
+* you can view a general log file showing all the objects you created in any session of using the app
+
+* clear everything
+
+
 
 ## Descriptions
 

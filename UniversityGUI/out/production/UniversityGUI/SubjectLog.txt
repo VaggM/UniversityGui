@@ -1,6 +1,0 @@
-
-Subject-0
-Name      : Kiklomata I
-ID        : eee1.1
-Semester  : 1
-

@@ -1,5 +1,7 @@
 # UniversityGui
 
+This is a dummy project when playing around java and git for the first months.
+
 Project used to learn java and jframe elements.
 
 Based on the project I continued from java classes in UniWA.
@@ -28,7 +30,7 @@ Things you can do :
 
 ## Descriptions
 
-Below there is a brief description for each class. (will be updated)
+Below there is a brief description for each class.
 
 [Main.java](https://github.com/VaggM/UniversityGui/blob/main/Descriptions/Main.md)
 

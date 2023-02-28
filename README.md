@@ -4,7 +4,7 @@ Project used to learn java and jframe elements.
 
 Based on the project I continued from java classes in UniWA.
 
-Try the executable jar file : [right here](https://github.com/VaggM/UniversityGui/blob/main/UniversityGUI/out/artifacts/UniversityGUI_jar/UniversityGUI.jar).
+Try the executable jar file : [right here](https://github.com/VaggM/UniversityGui/blob/main/UniversityGUI.jar).
 
 The current version of the project works around a main window frame from which you are handling a 'University'.
 
